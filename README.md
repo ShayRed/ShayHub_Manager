@@ -161,33 +161,6 @@ logs/shayhub_manager.log
 
 ---
 
-## 🚧 Roadmap
-
-### **v1.4.0** *(planned)*
-- 🗄️ **SQL Export/Import** functionality
-- 🔍 **Advanced search** with regex support
-- 📊 **Statistics** about proto files
-- 🎨 **Custom themes** (Light/Dark/Color schemes)
-
-### **v1.5.0** *(planned)*
-- 🔗 **Plugin system** for extensions
-- 📈 **Performance monitoring**
-- 🌐 **More languages** (Korean, Spanish, French)
-- 📱 **Tablet optimization** for touch devices
-
----
-
-## 👥 Support & Development
-
-### **Developed for**
-🏢 **ShayHub** - Professional Metin2 Server Tools
-
-### **Technology Stack**
-- 🐍 **Python 3.13**
-- 🖼️ **PyQt5** (GUI Framework)
-- 📊 **Pandas** (Data Processing)
-- 🔤 **Chardet** (Encoding Detection)
-
 ### **License**
 📄 **MIT License** - See [LICENSE.md](LICENSE.md) for details
 
@@ -197,19 +170,12 @@ logs/shayhub_manager.log
 
 See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
-**Current Version**: v1.3.2
-- 🐛 Fixed row deletion with active search filters
-- 🐛 Fixed duplicate row function with filtered data
-- 🔧 Improved row operations in filtered views
-- 📝 Enhanced logging for debugging
-
 ---
 
 ## 🔗 Links
 
 - 🐛 **Report Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - 💬 **Discord Support**: [Join our Discord](https://discord.gg/7aum2ZfmU3)
-- 📧 **Contact**: support@shayhub.com
 
 ---
 
