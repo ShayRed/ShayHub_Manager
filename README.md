@@ -2,7 +2,7 @@
 
 ![ShayHub Manager Preview](preview.png)
 
-> **Version 1.3.2** | Professional Proto Editor for Metin2 Servers
+> **Version 1.3.6** | Professional Editor for Metin2 Servers
 
 A modern, user-friendly tool for editing `item_proto.txt` and `mob_proto.txt` files with advanced features and optimized performance.
 
