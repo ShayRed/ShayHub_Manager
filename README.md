@@ -1,4 +1,4 @@
-# ShayHub Manager - Proto Editor
+# ShayHub Manager
 
 ![ShayHub Manager Preview](preview.png)
 
